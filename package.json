@@ -1,0 +1,12 @@
+{
+    "name": "docker-demo-lab6",
+    "version": "1.0.0",
+    "description": "Docker demo",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "express": "4.21.1"
+    }
+}
